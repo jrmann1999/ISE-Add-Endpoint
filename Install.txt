@@ -1,0 +1,8 @@
+Ideally you will be using a virtual environment, I will not detail how to create one here.
+
+I have included requirements.txt which gives you a file to install all required modules, mainly the ERS API python library.
+To install please use the PIP command:
+
+    pip install -r requirements.txt
+    
+All modules should install successfully after which the program is ready to be run.  Please see README.md for details.
